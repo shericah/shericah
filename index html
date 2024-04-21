@@ -1,12 +1,18 @@
 <!DOCTYPE html>
 <html>
+<head>
 <tittle></tittle>
+<meta name>
+<link>
+<head>
 <body>
+<div classs=<"container">
 
 
 <hi>This is heading </hi>
 <p> This is paragraph</p>
+<div>
 
 
 <body>
-</htm>
+</html>
